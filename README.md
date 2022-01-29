@@ -2,7 +2,7 @@
 - I’m interested in minecraft modding, specifically creating modpacks
 - I'm relatively experienced in both Python and JS.
 - I hate the Unity game engine.
-- 📫 How to reach me: email "grantwilliamschannelofficial@gmail.com
+- 📫 How to reach me: email "grantwilliamschannelofficial@gmail.com"
 
 <!---
 GW-Dev/GW-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

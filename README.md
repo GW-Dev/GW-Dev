@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GW-Dev
-- I’m interested in minecraft modding, specifically creating modpacks
-- I'm relatively experienced in both Python and JS.
+- I’m interested in rockets and minecraft modpack development
+- I'm relatively experienced in Matlab, Python, and JS.
 - I hate the Unity game engine.
-- 📫 How to reach me: email "grantwilliamschannelofficial@gmail.com"
+- 📫 How to reach me: email "grantewilliams737@gmail.com"
 
 <!---
 GW-Dev/GW-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
